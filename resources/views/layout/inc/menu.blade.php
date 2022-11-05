@@ -8,7 +8,7 @@
 
       <ul class="dropdown-menu">
         <li>
-            <a class="nav-link" href="/">
+            <a class="nav-link" href="/dashboard">
              General Dashboard
             </a>
         </li>
